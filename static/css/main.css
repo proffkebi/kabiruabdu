@@ -27,8 +27,3 @@ body{
  pre{
      font: 2em sans-serif;
  }
-
- .professional ul, li{
-    list-style-type:circle;
-    list-style: circle;
- }
