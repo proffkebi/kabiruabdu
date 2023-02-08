@@ -1,6 +1,18 @@
 body{
     background-color: #F8F8F8!important;
 }
+.cn {
+    font-family: "Trirong", serif;
+    font-size: 15px;
+  }
+.ff{
+    font-family: Copperplate, Papyrus, fantasy;
+  }
+  .nm{
+    font-family: "Sofia", sans-serif;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #ababab;
+  }
 #profile-wrapper{
     text-align: center;
 }
